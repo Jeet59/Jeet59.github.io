@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0becf7a7.css",
+    "main.js": "/static/js/main.6ff6c594.js",
+    "static/js/453.a3fb5a8a.chunk.js": "/static/js/453.a3fb5a8a.chunk.js",
+    "static/media/studyTable.png": "/static/media/studyTable.4f7dcff990ad23d33e0e.png",
+    "static/media/jobpediaImg.png": "/static/media/jobpediaImg.f76c468884aeb20b7627.png",
+    "static/media/portfolio.png": "/static/media/portfolio.d18c3a604ba037c201e8.png",
+    "static/media/snapdeal-scraperIMG.png": "/static/media/snapdeal-scraperIMG.e98f24c9b614487cf83a.png",
+    "static/media/bg.jpg": "/static/media/bg.092636b6c05d463af0df.jpg",
+    "static/media/search.png": "/static/media/search.b89ecbedc8300eb5dcd1.png",
+    "static/media/weCOdeIMG.png": "/static/media/weCOdeIMG.76befca807e9b51f4c5f.png",
+    "index.html": "/index.html",
+    "main.0becf7a7.css.map": "/static/css/main.0becf7a7.css.map",
+    "main.6ff6c594.js.map": "/static/js/main.6ff6c594.js.map",
+    "453.a3fb5a8a.chunk.js.map": "/static/js/453.a3fb5a8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0becf7a7.css",
+    "static/js/main.6ff6c594.js"
+  ]
+}
