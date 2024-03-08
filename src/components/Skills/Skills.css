@@ -1,0 +1,24 @@
+.Skills {
+  display: flex;
+  height: 60vh;
+  width: 95%;
+  margin-top: 5vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.SkillsTitle {
+  font-size: 4vw;
+  font-weight: bold;
+  margin-bottom: 5vh;
+}
+.SkillItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.SkillCards {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}

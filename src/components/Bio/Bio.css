@@ -1,0 +1,29 @@
+.Bio {
+  height: 70vh;
+  width: 80%;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+}
+.bioContent {
+  display: flex;
+  width: 50%;
+  font-size: 2vw;
+}
+.bioIntro {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: flex-start;
+  width: 50%;
+}
+
+.bioIntro h1 {
+  font-size: 5vw;
+}
+.bioIntro h2 {
+  font-size: 2vw;
+}

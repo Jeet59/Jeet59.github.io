@@ -1,0 +1,41 @@
+.Contact {
+  width: 100%;
+  height: 30vh;
+  background-color: #d3d3d3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15vh;
+}
+.Contact h1 {
+  font-size: 5vh;
+}
+
+.contactItems {
+  width: 80%;
+  margin-top: 7vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.contactSocial {
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.contactSocial a {
+  font-size: 3vh;
+  text-decoration: wavy;
+  font-style: italic;
+  font-weight: 700;
+  color: black;
+}
+
+.contactMail {
+  margin-left: 2vw;
+}

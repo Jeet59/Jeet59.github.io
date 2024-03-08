@@ -1,0 +1,13 @@
+.App {
+  height: 100%;
+  max-width: 100%;
+  background-image: url("../public/bg.jpg");
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  align-items: center;
+  font-family: "Roboto Mono", monospace;
+}
+.App::-webkit-scrollbar {
+  width: 0;
+}

@@ -1,0 +1,44 @@
+.Projects {
+  height: 150vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.ProjectsTitle {
+  font-size: 4vw;
+  font-weight: bold;
+  margin-bottom: 5vh;
+}
+
+.ProjectsGrid {
+  width: 80%;
+  display: grid;
+  height: 12 0vh;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 4vw;
+}
+.Project {
+  background-color: #d3d3d3;
+  width: 90%;
+  height: 50vh;
+  padding: 2vw;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+  color: black;
+}
+.ProjectImage {
+  width: 90%;
+  height: 15vh;
+}
+
+.ProjectInfo {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
