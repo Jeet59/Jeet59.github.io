@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0becf7a7.css",
-    "main.js": "/static/js/main.6ff6c594.js",
+    "main.css": "/static/css/main.15691bf2.css",
+    "main.js": "/static/js/main.ed878180.js",
     "static/js/453.a3fb5a8a.chunk.js": "/static/js/453.a3fb5a8a.chunk.js",
     "static/media/studyTable.png": "/static/media/studyTable.4f7dcff990ad23d33e0e.png",
     "static/media/jobpediaImg.png": "/static/media/jobpediaImg.f76c468884aeb20b7627.png",
@@ -11,12 +11,12 @@
     "static/media/search.png": "/static/media/search.b89ecbedc8300eb5dcd1.png",
     "static/media/weCOdeIMG.png": "/static/media/weCOdeIMG.76befca807e9b51f4c5f.png",
     "index.html": "/index.html",
-    "main.0becf7a7.css.map": "/static/css/main.0becf7a7.css.map",
-    "main.6ff6c594.js.map": "/static/js/main.6ff6c594.js.map",
+    "main.15691bf2.css.map": "/static/css/main.15691bf2.css.map",
+    "main.ed878180.js.map": "/static/js/main.ed878180.js.map",
     "453.a3fb5a8a.chunk.js.map": "/static/js/453.a3fb5a8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0becf7a7.css",
-    "static/js/main.6ff6c594.js"
+    "static/css/main.15691bf2.css",
+    "static/js/main.ed878180.js"
   ]
 }
